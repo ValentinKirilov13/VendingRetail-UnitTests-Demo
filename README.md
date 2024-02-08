@@ -1,0 +1,1 @@
+# VendingRetail_Skeleton_netcoreapp6.0
